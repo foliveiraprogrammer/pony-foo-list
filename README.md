@@ -1,5 +1,6 @@
-# pony-foo-list ![pony foo](http://i.imgur.com/eQOLCkZ.png)
+# pony-foo-list 
 
+![pony foo](http://i.imgur.com/eQOLCkZ.png)
 
 List of articles to read of [Pony Foo](http://blog.ponyfoo.com/) blog!
 
