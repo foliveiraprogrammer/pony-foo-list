@@ -10,7 +10,7 @@ List of articles to read of [Pony Foo](http://blog.ponyfoo.com/) blog!
 4. [Asset Management in Node](http://blog.ponyfoo.com/2013/01/18/asset-management-in-node) ✔
 5. [Continuous Integration, and Automated Deployments](http://blog.ponyfoo.com/2013/01/18/continuous-integration-and-automated-deployments) ✔
 6. [Publishing Node.JS Packages with npm](http://blog.ponyfoo.com/2013/01/23/publishing-nodejs-packages-with-npm) ✔
-7. [Paging in the Wilderness](http://blog.ponyfoo.com/2013/01/28/paging-in-the-wilderness)
+7. [Paging in the Wilderness](http://blog.ponyfoo.com/2013/01/28/paging-in-the-wilderness) ✔
 8. [Implementing OpenSearch](http://blog.ponyfoo.com/2013/02/05/implementing-opensearch)
 9. [JavaScript Is Awesome](http://blog.ponyfoo.com/2013/02/15/javascript-is-awesome)
 10. [Information Hiding in JavaScript](http://blog.ponyfoo.com/2013/02/21/information-hiding-in-javascript)
