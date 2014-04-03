@@ -13,7 +13,7 @@ List of articles to read of [Pony Foo](http://blog.ponyfoo.com/) blog!
 7. [Paging in the Wilderness](http://blog.ponyfoo.com/2013/01/28/paging-in-the-wilderness) ✔
 8. [Implementing OpenSearch](http://blog.ponyfoo.com/2013/02/05/implementing-opensearch) ✔
 9. [JavaScript Is Awesome](http://blog.ponyfoo.com/2013/02/15/javascript-is-awesome) ✔
-10. [Information Hiding in JavaScript](http://blog.ponyfoo.com/2013/02/21/information-hiding-in-javascript)
+10. [Information Hiding in JavaScript](http://blog.ponyfoo.com/2013/02/21/information-hiding-in-javascript) ✔
 11. [Defensive Design](http://blog.ponyfoo.com/2013/03/06/defensive-design)
 12. [Introduction to SEO and Content Indexing](http://blog.ponyfoo.com/2013/03/12/introduction-to-seo-and-content-indexing)
 13. [Managing Code Quality in NodeJS](http://blog.ponyfoo.com/2013/03/22/managing-code-quality-in-nodejs)
