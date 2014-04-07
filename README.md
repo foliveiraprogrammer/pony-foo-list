@@ -17,7 +17,7 @@ List of articles to read of [Pony Foo](http://blog.ponyfoo.com/) blog!
 11. [Defensive Design](http://blog.ponyfoo.com/2013/03/06/defensive-design) ✔
 12. [Introduction to SEO and Content Indexing](http://blog.ponyfoo.com/2013/03/12/introduction-to-seo-and-content-indexing) ✔
 13. [Managing Code Quality in NodeJS](http://blog.ponyfoo.com/2013/03/22/managing-code-quality-in-nodejs) ✔
-14. [Pragmatic Unit Testing in JavaScript](http://blog.ponyfoo.com/2013/03/28/pragmatic-unit-testing-in-javascript)
+14. [Pragmatic Unit Testing in JavaScript](http://blog.ponyfoo.com/2013/03/28/pragmatic-unit-testing-in-javascript) ✔
 15. [A Note on Everyday Usability](http://blog.ponyfoo.com/2013/04/01/a-note-on-everyday-usability)
 16. [The Architecture of Productivity](http://blog.ponyfoo.com/2013/05/03/the-architecture-of-productivity)
 17. [Taming Asynchronous JavaScript](http://blog.ponyfoo.com/2013/05/08/taming-asynchronous-javascript)
