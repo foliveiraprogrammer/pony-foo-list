@@ -21,7 +21,7 @@ List of articles to read of [Pony Foo](http://blog.ponyfoo.com/) blog!
 15. [A Note on Everyday Usability](http://blog.ponyfoo.com/2013/04/01/a-note-on-everyday-usability) ✔
 16. [The Architecture of Productivity](http://blog.ponyfoo.com/2013/05/03/the-architecture-of-productivity) ✔
 17. [Taming Asynchronous JavaScript](http://blog.ponyfoo.com/2013/05/08/taming-asynchronous-javascript)
-18. [The Web Wars](http://blog.ponyfoo.com/2013/05/13/the-web-wars)
+18. [The Web Wars](http://blog.ponyfoo.com/2013/05/13/the-web-wars) ✔
 19. [Recommended Reading](http://blog.ponyfoo.com/2013/05/21/recommended-reading)
 20. [Understanding Build Processes](http://blog.ponyfoo.com/2013/05/22/understanding-build-processes)
 21. [Learn Regular Expressions](http://blog.ponyfoo.com/2013/05/27/learn-regular-expressions)
