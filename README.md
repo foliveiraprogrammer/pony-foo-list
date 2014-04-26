@@ -24,7 +24,7 @@ List of articles to read of [Pony Foo](http://blog.ponyfoo.com/) blog!
 18. [The Web Wars](http://blog.ponyfoo.com/2013/05/13/the-web-wars) ✔
 19. [Recommended Reading](http://blog.ponyfoo.com/2013/05/21/recommended-reading) ✔
 20. [Understanding Build Processes](http://blog.ponyfoo.com/2013/05/22/understanding-build-processes) ✔
-21. [Learn Regular Expressions](http://blog.ponyfoo.com/2013/05/27/learn-regular-expressions)
+21. [Learn Regular Expressions](http://blog.ponyfoo.com/2013/05/27/learn-regular-expressions) ✔
 22. [The Micro Library Phenomenon](http://blog.ponyfoo.com/2013/05/30/the-micro-library-phenomenon)
 23. [Uncovering the Native DOM API](http://blog.ponyfoo.com/2013/06/10/uncovering-the-native-dom-api)
 24. [CSS For Dummies](http://blog.ponyfoo.com/2013/06/24/css-for-dummies)
