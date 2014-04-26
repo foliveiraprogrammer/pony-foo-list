@@ -2,7 +2,7 @@
 
 ![pony foo](http://i.imgur.com/eQOLCkZ.png)
 
-List of articles to read of [Pony Foo](http://blog.ponyfoo.com/) blog!
+### List of articles to read of [Pony Foo](http://blog.ponyfoo.com/) blog!
 
 1. [Pony Foo begins](http://blog.ponyfoo.com/2012/12/25/pony-foo-begins) ✔
 2. [Single Page Design Madness](http://blog.ponyfoo.com/2012/12/29/single-page-design-madness) ✔
