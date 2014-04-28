@@ -25,7 +25,7 @@
 19. [Recommended Reading](http://blog.ponyfoo.com/2013/05/21/recommended-reading) ✔
 20. [Understanding Build Processes](http://blog.ponyfoo.com/2013/05/22/understanding-build-processes) ✔
 21. [Learn Regular Expressions](http://blog.ponyfoo.com/2013/05/27/learn-regular-expressions) ✔
-22. [The Micro Library Phenomenon](http://blog.ponyfoo.com/2013/05/30/the-micro-library-phenomenon)
+22. [The Micro Library Phenomenon](http://blog.ponyfoo.com/2013/05/30/the-micro-library-phenomenon) ✔
 23. [Uncovering the Native DOM API](http://blog.ponyfoo.com/2013/06/10/uncovering-the-native-dom-api)
 24. [CSS For Dummies](http://blog.ponyfoo.com/2013/06/24/css-for-dummies)
 25. [Organizing your CSS with Bootstrap](http://blog.ponyfoo.com/2013/06/25/organizing-your-css-with-bootstrap)
