@@ -28,9 +28,9 @@
 22. [The Micro Library Phenomenon](http://blog.ponyfoo.com/2013/05/30/the-micro-library-phenomenon) ✔
 23. [Uncovering the Native DOM API](http://blog.ponyfoo.com/2013/06/10/uncovering-the-native-dom-api) ✔
 24. [CSS For Dummies](http://blog.ponyfoo.com/2013/06/24/css-for-dummies) ✔
-25. [Organizing your CSS with Bootstrap](http://blog.ponyfoo.com/2013/06/25/organizing-your-css-with-bootstrap)
+25. [Organizing your CSS with Bootstrap](http://blog.ponyfoo.com/2013/06/25/organizing-your-css-with-bootstrap) ✔
 26. [Monitoring Production Grade Node Applications](http://blog.ponyfoo.com/2013/06/27/monitoring-production-grade-node-applications)
-27. [Tech News Reading Hints](http://blog.ponyfoo.com/2013/07/02/tech-news-reading-hints)
+27. [Tech News Reading Hints](http://blog.ponyfoo.com/2013/07/02/tech-news-reading-hints) 
 28. [Getting Over jQuery](http://blog.ponyfoo.com/2013/07/09/getting-over-jquery)
 29. [Modularizing Node Applications with Express](http://blog.ponyfoo.com/2013/07/10/modularizing-node-applications-with-express)
 30. [Teach Yourself Node.JS in 10 Steps](http://blog.ponyfoo.com/2013/07/12/teach-yourself-nodejs-in-10-steps)
