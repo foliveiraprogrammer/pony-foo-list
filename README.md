@@ -65,3 +65,4 @@
 59. [Angle Brackets, Synergistic Directives](http://blog.ponyfoo.com/2014/02/19/angle-brackets-synergistic-directives)
 60. [A Less Convoluted Event Emitter Implementation](http://blog.ponyfoo.com/2014/03/07/a-less-convoluted-event-emitter-implementation)
 61. [Head First Public Speaking](http://blog.ponyfoo.com/2014/04/24/head-first-public-speaking)
+62. [Shared Rendering with Rendr](http://blog.ponyfoo.com/2014/05/07/shared-rendering-with-rendr)
