@@ -33,7 +33,7 @@
 27. [Tech News Reading Hints](http://blog.ponyfoo.com/2013/07/02/tech-news-reading-hints) ✔
 28. [Getting Over jQuery](http://blog.ponyfoo.com/2013/07/09/getting-over-jquery) ✔
 29. [Modularizing Node Applications with Express](http://blog.ponyfoo.com/2013/07/10/modularizing-node-applications-with-express) ✔
-30. [Teach Yourself Node.JS in 10 Steps](http://blog.ponyfoo.com/2013/07/12/teach-yourself-nodejs-in-10-steps)
+30. [Teach Yourself Node.JS in 10 Steps](http://blog.ponyfoo.com/2013/07/12/teach-yourself-nodejs-in-10-steps) ✔
 31. [Upgraded Asset Management](http://blog.ponyfoo.com/2013/07/22/upgraded-asset-management)
 32. [Lean Development Principles](http://blog.ponyfoo.com/2013/07/29/lean-development-principles)
 33. [The Angular Way](http://blog.ponyfoo.com/2013/08/27/the-angular-way)
