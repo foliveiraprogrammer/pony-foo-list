@@ -35,7 +35,7 @@
 29. [Modularizing Node Applications with Express](http://blog.ponyfoo.com/2013/07/10/modularizing-node-applications-with-express) ✔
 30. [Teach Yourself Node.JS in 10 Steps](http://blog.ponyfoo.com/2013/07/12/teach-yourself-nodejs-in-10-steps) ✔
 31. [Upgraded Asset Management](http://blog.ponyfoo.com/2013/07/22/upgraded-asset-management)
-32. [Lean Development Principles](http://blog.ponyfoo.com/2013/07/29/lean-development-principles)
+32. [Lean Development Principles](http://blog.ponyfoo.com/2013/07/29/lean-development-principles) ✔
 33. [The Angular Way](http://blog.ponyfoo.com/2013/08/27/the-angular-way)
 34. [Deploying Node apps to AWS using Grunt](http://blog.ponyfoo.com/2013/09/19/deploying-node-apps-to-aws-using-grunt)
 35. [Continuous Development in Node.js](http://blog.ponyfoo.com/2013/09/26/continuous-development-in-nodejs)
