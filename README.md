@@ -66,3 +66,4 @@
 60. [A Less Convoluted Event Emitter Implementation](http://blog.ponyfoo.com/2014/03/07/a-less-convoluted-event-emitter-implementation)
 61. [Head First Public Speaking](http://blog.ponyfoo.com/2014/04/24/head-first-public-speaking)
 62. [Shared Rendering with Rendr](http://blog.ponyfoo.com/2014/05/07/shared-rendering-with-rendr)
+63. [Modularizing Your Front-End](http://blog.ponyfoo.com/2014/05/16/modularizing-your-front-end)
