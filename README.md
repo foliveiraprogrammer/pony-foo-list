@@ -39,7 +39,7 @@
 33. [The Angular Way](http://blog.ponyfoo.com/2013/08/27/the-angular-way) ✔
 34. [Deploying Node apps to AWS using Grunt](http://blog.ponyfoo.com/2013/09/19/deploying-node-apps-to-aws-using-grunt)
 35. [Continuous Development in Node.js](http://blog.ponyfoo.com/2013/09/26/continuous-development-in-nodejs)
-36. [We don't want your Coffee](http://blog.ponyfoo.com/2013/09/28/we-dont-want-your-coffee)
+36. [We don't want your Coffee](http://blog.ponyfoo.com/2013/09/28/we-dont-want-your-coffee) ✔
 37. [Ditch Windows, Become a Polyglot](http://blog.ponyfoo.com/2013/10/10/ditch-windows-become-a-polyglot) ✔
 38. [Spritesheets, Grunt, and You](http://blog.ponyfoo.com/2013/10/16/spritesheets-grunt-and-you)
 39. [Your Tab Views Suck](http://blog.ponyfoo.com/2013/10/18/your-tab-views-suck)
